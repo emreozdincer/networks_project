@@ -1,0 +1,58 @@
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\Lobby.exe.config
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\Lobby.exe
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\Lobby.pdb
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\mscorlib.dll
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\normidna.nlp
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\normnfc.nlp
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\normnfd.nlp
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\normnfkc.nlp
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\bin\Debug\normnfkd.nlp
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\obj\Debug\Lobby.Properties.Resources.resources
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\obj\Debug\Lobby.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\obj\Debug\Lobby.exe
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\obj\Debug\Lobby.pdb
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\obj\Debug\Lobby.Form1.resources
+C:\Users\Emre\Desktop\Networks\Step3\Lobby\Lobby\obj\Debug\Lobby.csprojResolveAssemblyReference.cache
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\bin\Debug\Lobby.exe.config
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\bin\Debug\Lobby.exe
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\bin\Debug\Lobby.pdb
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.csprojResolveAssemblyReference.cache
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.Properties.Resources.resources
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.csproj.GenerateResource.Cache
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.exe
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.pdb
+C:\Users\Berk\Desktop\Real Life\Dersler\3-1\CS-408\Project\Step 3\Lobby\Lobby\obj\Debug\Lobby.Connection.resources
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\Lobby.exe.config
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\obj\Debug\Lobby.exe
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\obj\Debug\Lobby.pdb
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\Lobby.exe
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\Lobby.pdb
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\mscorlib.dll
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\normidna.nlp
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\normnfc.nlp
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\normnfd.nlp
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\normnfkc.nlp
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\bin\Debug\normnfkd.nlp
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\obj\Debug\Lobby.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\obj\Debug\Lobby.Connection.resources
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\obj\Debug\Lobby.Properties.Resources.resources
+C:\Users\Emre\Desktop\Step 3\Lobby\Lobby\obj\Debug\Lobby.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\Lobby.exe.config
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\obj\Debug\Lobby.exe
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\obj\Debug\Lobby.pdb
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\Lobby.exe
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\Lobby.pdb
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\mscorlib.dll
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\normidna.nlp
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\normnfc.nlp
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\normnfd.nlp
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\normnfkc.nlp
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\bin\Debug\normnfkd.nlp
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\obj\Debug\Lobby.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\obj\Debug\Lobby.Connection.resources
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\obj\Debug\Lobby.Properties.Resources.resources
+C:\Users\Emre\Desktop\Networks\Step 3\Lobby\Lobby\obj\Debug\Lobby.csproj.GenerateResource.Cache
